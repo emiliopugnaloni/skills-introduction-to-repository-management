@@ -1,0 +1,9 @@
+CODEOWNERS
+
+# Core functionality - changes here should be rare!
+/src/app.py                   @emiliopugnaloni
+/src/backend/database.py      @emiliopugnaloni
+/src/backend/routers/auth.py  @emiliopugnaloni
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @emiliopugnaloni
